@@ -9,3 +9,6 @@
 - git checkout dev
 - git push origin dev
 - git commit -m "xxx"
+- git checkout master
+- git merge dev
+- git push origin master
