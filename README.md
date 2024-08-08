@@ -7,5 +7,5 @@
 - git add .
 - git commit -m "xxx"
 - git checkout dev
-- git commit -m "xxx"
 - git push origin dev
+- git commit -m "xxx"
